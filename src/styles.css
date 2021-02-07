@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #be185d;
+  color: white;
+  padding: 1.5rem;
+}
+
+input {
+  padding: 2rem;
+  margin: auto;
+}
+
+h3 {
+  color: #4b5563;
+}
+
+h4 {
+  padding-top: 2rem;
+  color: #4b5563;
+}
+
+.list {
+  font-size: 2rem;
+  padding: 0.6rem;
+  cursor: pointer;
+}
